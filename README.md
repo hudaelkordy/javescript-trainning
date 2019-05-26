@@ -1,0 +1,2 @@
+# javescript-trainning
+first project
